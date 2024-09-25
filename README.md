@@ -1,3 +1,5 @@
+## Deprecated in favour of supporting Project: Lotus, go check them out at https://github.com/Lotus-AU/LotusContinued
+
 <p align="center">
   <img width="" height="400" src="./Images/lotus_image2.png">
 </p>
